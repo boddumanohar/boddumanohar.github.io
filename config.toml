@@ -1,0 +1,5 @@
+languageCode = "en-us"
+baseurl = "boddumanohar.github.io"
+title = "My GSoC 2017 Blog"
+theme = "slim"
+publishDir = "docs"
